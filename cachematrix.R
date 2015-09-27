@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Caches a matrix and its inverse to avoid a potentially
+## costly recomputation
 
 ## Creates the accessor and setter methods for the matrix and
 ## its inverse so that they can be cached.
